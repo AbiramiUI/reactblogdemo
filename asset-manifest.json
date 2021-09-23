@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/reactblogdemo/static/css/main.78032e53.chunk.css",
+    "main.js": "/reactblogdemo/static/js/main.07df8e90.chunk.js",
+    "main.js.map": "/reactblogdemo/static/js/main.07df8e90.chunk.js.map",
+    "runtime-main.js": "/reactblogdemo/static/js/runtime-main.cf55417e.js",
+    "runtime-main.js.map": "/reactblogdemo/static/js/runtime-main.cf55417e.js.map",
+    "static/css/2.10355efa.chunk.css": "/reactblogdemo/static/css/2.10355efa.chunk.css",
+    "static/js/2.0cb73b14.chunk.js": "/reactblogdemo/static/js/2.0cb73b14.chunk.js",
+    "static/js/2.0cb73b14.chunk.js.map": "/reactblogdemo/static/js/2.0cb73b14.chunk.js.map",
+    "index.html": "/reactblogdemo/index.html",
+    "precache-manifest.ade992bb0521390460014ff06a0cab23.js": "/reactblogdemo/precache-manifest.ade992bb0521390460014ff06a0cab23.js",
+    "service-worker.js": "/reactblogdemo/service-worker.js",
+    "static/css/2.10355efa.chunk.css.map": "/reactblogdemo/static/css/2.10355efa.chunk.css.map",
+    "static/css/main.78032e53.chunk.css.map": "/reactblogdemo/static/css/main.78032e53.chunk.css.map",
+    "static/js/2.0cb73b14.chunk.js.LICENSE.txt": "/reactblogdemo/static/js/2.0cb73b14.chunk.js.LICENSE.txt",
+    "static/media/about.jpg": "/reactblogdemo/static/media/about.cb48b4d0.jpg",
+    "static/media/affection-baby-baby.jpg": "/reactblogdemo/static/media/affection-baby-baby.80961a00.jpg",
+    "static/media/font-awesome.min.css": "/reactblogdemo/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/logo.png": "/reactblogdemo/static/media/logo.2854cda2.png",
+    "static/media/memories-from.jpg": "/reactblogdemo/static/media/memories-from.13ad316b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf55417e.js",
+    "static/css/2.10355efa.chunk.css",
+    "static/js/2.0cb73b14.chunk.js",
+    "static/css/main.78032e53.chunk.css",
+    "static/js/main.07df8e90.chunk.js"
+  ]
+}
